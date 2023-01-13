@@ -1,0 +1,50 @@
+
+body{
+    background-color: aquamarine;
+}
+h1{
+  text-align: center;
+  font-weight: 800;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+
+
+}
+.app{
+    margin: 50px auto;
+    text-align: center;
+    border: 3px solid black;
+    height: 250px;
+    width: 500px;
+    border-radius: 20px;
+    background-color: goldenrod;
+    box-shadow: 3px 3px rgb(131, 194, 173);
+}
+#counter{
+    
+    height: 60px;
+    width: 100px;
+    background-color: aliceblue;
+    font-size: 50px;
+    border-radius: 20px;
+    margin: 50px auto;
+    border: 2px solid black;
+}
+#add{
+    height: 50px;
+    width: 80px;
+    font-size: 40px;
+    border-radius: 20px;
+}
+#reset{
+    height: 50px;
+    width: 150px;
+    font-size: 40px;
+    border-radius: 20px;
+}
+#sub{
+    height: 50px;
+    width: 80px;
+    font-size: 40px;
+    border-radius: 20px;
+}
